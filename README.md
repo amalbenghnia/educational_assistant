@@ -163,9 +163,9 @@ python -m streamlit run streamlit_app.py
 
 ## 📸 Screenshots
 
-### Home Page / Dashboard
+### Home Page/login
 > *(Add screenshot showing the main interface after login, sidebar, and welcome screen)*
-[Insert Screenshot Here]
+![Home page](assets/"C:\Users\user\dekstop\educational_assistant\assets\login.png")
 
 ### Chat Interface with RAG Citations
 > *(Add screenshot showing a chat interaction with source chips under the AI's response)*
@@ -189,20 +189,9 @@ python -m streamlit run streamlit_app.py
 
 ---
 
-## 🔮 Future Improvements
-
-*   **Multi-modal support:** Add support for extracting data from images, graphs, and charts within PDFs using Vision models.
-*   **Agentic Workflows:** Implement a sub-agent to automatically scrape web resources to supplement PDF content when answers are insufficient.
-*   **Spaced Repetition:** Integrate an Anki-style spaced repetition algorithm for the flashcards to track long-term retention.
-*   **Cloud Deployment:** Containerize the application with Docker and deploy the backend to AWS/GCP, scaling the FAISS database with a dedicated vector DB like Pinecone or Milvus.
-
----
 
 ## 👨‍💻 Author
 
-**[Your Name / Amal Benghnya]**
-*Final Year Engineering Student*
-* [GitHub](https://github.com/yourusername)
-* [LinkedIn](https://linkedin.com/in/yourprofile)
+**[Amal Ben ghnia]**
 
-*This project was developed as a comprehensive academic demonstration of modern AI and full-stack engineering principles.*
+
