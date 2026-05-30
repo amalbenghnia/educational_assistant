@@ -167,7 +167,7 @@ python -m streamlit run streamlit_app.py
 ![Home page](assets/login.png)
 
 ### Chat Interface with RAG Citations
-![Chat](assets/chat_rag.png)
+![Chat]([assets/chat_rag.png](https://github.com/amalbenghnia/educational_assistant/blob/main/assets/Chat%20Interface%20with%20RAG.png))
 ### Interactive Quiz Generator
 ![Quiz](assets/Quiz_generation.png)
 ### Study Flashcards
