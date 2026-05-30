@@ -167,15 +167,15 @@ python -m streamlit run streamlit_app.py
 ![Home page](assets/login.png)
 
 ### Chat Interface with RAG Citations
-![Chat](assets/interfacechatwithrag.png)
+![Chat](assets/chat_rag.png)
 ### Interactive Quiz Generator
-![Quiz](assets/Quizgeneration.png)
+![Quiz](assets/Quiz_generation.png)
 ### Study Flashcards
-![Flashcards](assets/StudyFlashcards.png)
+![Flashcards](assets/Flashcards.png)
 ### Summary
-![summary](assets/documentsummaryexemple.png)
+![summary](assets/summary.png)
 ### Exam prep
-![exam prep](assets/examprep.png)
+![exam prep](assets/exam_prep.png)
 ---
 
 ## 🎥 Demonstration
