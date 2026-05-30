@@ -1,7 +1,6 @@
 # AI-Powered Educational Assistant 🎓
 
 An intelligent, full-stack educational platform that enables students to interact with their course materials (PDFs) through advanced AI, Retrieval-Augmented Generation (RAG), and a modern web interface. 
-
 This system moves beyond traditional studying by allowing students to converse with their documents, instantly generate comprehensive summaries, practice with automated quizzes, revise using flashcards, and prepare for exams—all powered by local LLMs.
 
 ---
@@ -54,7 +53,9 @@ The project relies on a robust **Retrieval-Augmented Generation (RAG)** pipeline
 *   **Document Processing:** PyMuPDF (`fitz`)
 
 ---
+## 🏗️ Architecture Diagram
 
+![Architecture](assets/diagramarchitecture.png)
 ## 📁 Project Structure
 
 ```text
@@ -103,7 +104,7 @@ educational_assistant/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/educational_assistant.git
+git clone https://github.com/amalbenghnia/educational_assistant.git
 cd educational_assistant
 ```
 
@@ -112,8 +113,7 @@ cd educational_assistant
 python -m venv venv
 # On Windows:
 .\venv\Scripts\activate
-# On Linux/Mac:
-source venv/bin/activate
+
 ```
 
 ### 3. Install dependencies
@@ -164,28 +164,23 @@ python -m streamlit run streamlit_app.py
 ## 📸 Screenshots
 
 ### Home Page/login
-> *(Add screenshot showing the main interface after login, sidebar, and welcome screen)*
-![Home page](assets/"C:\Users\user\dekstop\educational_assistant\assets\login.png")
+![Home page](assets/login.png)
 
 ### Chat Interface with RAG Citations
-> *(Add screenshot showing a chat interaction with source chips under the AI's response)*
-[Insert Screenshot Here]
-
+![Chat](assets/interfacechatwithrag.png)
 ### Interactive Quiz Generator
-> *(Add screenshot showing the quiz interface, radio buttons, and the graded score card)*
-[Insert Screenshot Here]
-
+![Quiz](assets/Quizgeneration.png)
 ### Study Flashcards
-> *(Add screenshot showing the flashcard UI with the "Reveal" button)*
-[Insert Screenshot Here]
-
+![Flashcards](assets/StudyFlashcards.png)
+### Summary
+![summary](assets/documentsummaryexemple.png)
+### Exam prep
+![exam prep](assets/examprep.png)
 ---
 
 ## 🎥 Demonstration
 
-*Add a link to a YouTube video demonstrating the project in action, or embed a GIF showing the PDF upload and chat process.*
-
-[Link to Demo Video]
+[[Link to Demo Video](https://drive.google.com/file/d/1pv5dTwS_HFlb0RgWyJTTf1_1eCy14bxS/view?usp=drive_link)]
 
 ---
 
