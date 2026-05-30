@@ -55,7 +55,7 @@ The project relies on a robust **Retrieval-Augmented Generation (RAG)** pipeline
 ---
 ## 🏗️ Architecture Diagram
 
-![Architecture](assets/architecture.png)
+![Architecture]([assets/architecture.png](https://github.com/amalbenghnia/educational_assistant/blob/main/assets/diagram%20achitecture.png))
 ## 📁 Project Structure
 
 ```text
@@ -167,15 +167,15 @@ python -m streamlit run streamlit_app.py
 ![Home page](assets/login.png)
 
 ### Chat Interface with RAG Citations
-![Chat](assets/chat_rag.png)
+![Chat]([assets/chat_rag.png](https://github.com/amalbenghnia/educational_assistant/blob/main/assets/interface%20chat%20with%20rag.png))
 ### Interactive Quiz Generator
-![Quiz](assets/Quiz_generation.png)
+![Quiz]([assets/Quiz_generation.png](https://github.com/amalbenghnia/educational_assistant/blob/main/assets/exemple%20de%20quiz.png))
 ### Study Flashcards
-![Flashcards](assets/Flashcards.png)
+![Flashcards]([assets/Flashcards.png](https://github.com/amalbenghnia/educational_assistant/blob/main/assets/Study%20Flashcards.png))
 ### Summary
-![summary](assets/summary.png)
+![summary]([assets/summary.png](https://github.com/amalbenghnia/educational_assistant/blob/main/assets/document%20summary%20exemple%20.png))
 ### Exam prep
-![exam prep](assets/exam_prep.png)
+![exam prep]([assets/exam_prep.png](https://github.com/amalbenghnia/educational_assistant/blob/main/assets/exam%20prep.png))
 ---
 
 ## 🎥 Demonstration
