@@ -55,7 +55,7 @@ The project relies on a robust **Retrieval-Augmented Generation (RAG)** pipeline
 ---
 ## 🏗️ Architecture Diagram
 
-![Architecture](assets/diagramarchitecture.png)
+![Architecture](assets/architecture.png)
 ## 📁 Project Structure
 
 ```text
