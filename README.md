@@ -175,7 +175,7 @@ python -m streamlit run streamlit_app.py
 ### Summary
 ![summary](assets/summary.png)
 ### Exam prep
-![exam prep](assets/exam_prep.png)
+![exam prep](assets/examprep.png)
 ---
 
 ## 🎥 Demonstration
